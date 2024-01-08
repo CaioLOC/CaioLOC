@@ -1,7 +1,7 @@
 ### Olá! Eu sou Caio Barbosa
 
 
-- 🔭 Atualmente cursando superior em Análise e Desenvolvimento de Sistemas
+- 🔭 Estudante de programação
 
 
 <div align="center">
